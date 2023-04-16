@@ -15,7 +15,7 @@
     <h3> < Habilidades | Skills /> </h3>
       <ul>
         <li>
-          <h4>< Linguagens de Programação /></h4>
+          <h4>< Linguagens de Programação | Programming languages /></h4>
             <p align="left" > 
               <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
               <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
@@ -26,7 +26,7 @@
             </p>
          </li>
          <li>
-          <h4>< Desenvolvimento Front-End /></h4>
+          <h4>< Desenvolvimento Front-End | Front End Development /></h4>
            <p align="left"> 
              <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
              <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
@@ -35,25 +35,25 @@
            </p>
          </li>
          <li>
-          <h4>< Desenvolvimento Back-End /></h4>
+          <h4>< Desenvolvimento Back-End | Back End Development /></h4>
             <p align="left"> 
               <a href=https://docs.spring.io/spring-framework/docs/current/reference/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>  
             </p>
           </li>
           <li>
-            <h4>< Desenvolvimento Mobile /></h4>
+            <h4>< Desenvolvimento Mobile | Mobile Development /></h4>
               <p align="left"> 
                 <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
               </p>
           </li>
           <li>
-            <h4>< Banco de Dados /></h4>
+            <h4>< Banco de Dados | Database /></h4>
               <p align="left"> 
                 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
               </p>
           </li>
           <li>
-           <p>< Outros /></h4>
+           <p>< Outros | Others /></h4>
              <p align="left"> 
                <a href="https://www.debian.org/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
               <a href="https://www.kali.org/docs/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" alt="kali-linux" width="40" height="40"/> </a> 
