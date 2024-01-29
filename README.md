@@ -3,12 +3,12 @@
   <h1 align="center">< Hello, Friend! /> :robot:</h1>
   <div>
     <h1> Introdução em Português </h1>
-      <p> Olá e boas-vindas ao meu perfil do GitHub! Meu nome é Renan, e sou um entusiasta de Segurança da Informação, com foco especial na área de Red Team. Estou em       busca constante de aprendizado e aprimoramento de minhas habilidades nessa área, sempre procurando estar atualizado com as últimas técnicas e ferramentas disponíveis. <br><br>
-      Eu acredito que a Segurança da Informação é fundamental em um mundo cada vez mais conectado, e é através do trabalho de Red Team que podemos identificar    vulnerabilidades em sistemas e redes antes que elas sejam exploradas por ameaças reais. Meu objetivo é contribuir para a melhoria da segurança de sistemas e redes,   ajudando a proteger organizações e usuários de possíveis ataques.<br/><br/>
+      <p> Olá e boas-vindas ao meu perfil do GitHub! Meu nome é Renan, e sou estudante de Segurança da Informação, com foco especial na área de Red Team. Estou em busca constante de aprendizado e aprimoramento de minhas habilidades nessa área, sempre procurando estar atualizado com as últimas técnicas e ferramentas disponíveis. <br><br>
+      Eu acredito que a Segurança da Informação é fundamental em um mundo cada vez mais conectado, e é através do trabalho de Red Team que podemos identificar vulnerabilidades em sistemas e redes antes que elas sejam exploradas por ameaças reais. Meu objetivo é contribuir para a melhoria da segurança de sistemas e redes, ajudando a proteger organizações e usuários de possíveis ataques.<br/><br/>
       Sou estudante de Segurança da Informação na instituição SENAC EAD, tenho conhecimentos em áreas complementares como desenvolvimento de software.
       </p>
     <h1> Introduction in English </h1>
-      <p> Hello and welcome to my GitHub profile! My name is Renan, and I am an Information Security enthusiast, with a special focus on the Red Team area. I am constantly looking to learn and improve my skills in this area, always looking to be up to date with the latest techniques and tools available. <br><br>
+      <p> Hello and welcome to my GitHub profile! My name is Renan, and I am an Information Security student, with a special focus on the Red Team area. I am constantly looking to learn and improve my skills in this area, always looking to be up to date with the latest techniques and tools available. <br><br>
         I believe that Information Security is fundamental in an increasingly connected world, and it is through the work of the Red Team that we can identify vulnerabilities in systems and networks before they are exploited by real threats. My goal is to contribute to improving the security of systems and networks, helping to protect organizations and users from possible attacks. <br><br>
         I am an Information Security student at SENAC EAD institution, I have knowledge in complementary areas such as software development.
       </p>
