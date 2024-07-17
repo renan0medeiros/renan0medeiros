@@ -1,7 +1,10 @@
-<body>
+
+  <h1 align="center">< Hello, Friend! /></h1>
+  <div align=center>
+    <img src= https://media1.tenor.com/m/5fXOP8eurtkAAAAC/mr-robot.gif>
+  <div/>
   <hr>
-  <h1 align="center">< Hello, Friend! /> :robot:</h1>
-  <div>
+  <div align="left">
     <h1> Introdução em Português </h1>
       <p> Olá e boas-vindas ao meu perfil do GitHub! Meu nome é Renan, e sou estudante de Segurança da Informação, com foco especial na área de Red Team. Estou em busca constante de aprendizado e aprimoramento de minhas habilidades nessa área, sempre procurando estar atualizado com as últimas técnicas e ferramentas disponíveis. <br><br>
       Eu acredito que a Segurança da Informação é fundamental em um mundo cada vez mais conectado, e é através do trabalho de Red Team que podemos identificar vulnerabilidades em sistemas e redes antes que elas sejam exploradas por ameaças reais. Meu objetivo é contribuir para a melhoria da segurança de sistemas e redes, ajudando a proteger organizações e usuários de possíveis ataques.<br/><br/>
@@ -66,8 +69,7 @@
   <hr>
   <div align="center">
     <a href="https://github.com/Noxurge">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noxurge&show_icons=true&theme=chartreuse-dark&include_all_commits=true"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noxurge&theme=chartreuse-dark" alt="GitHub Streak" /></a><br>
     <img height="180vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxurge&layout=compact&langs_count=7&theme=chartreuse-dark&include_all_commits=true"/>  
   </div><br>
   <hr>
-</body>
