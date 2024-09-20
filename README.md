@@ -37,7 +37,12 @@
         <img src="https://assets.tryhackme.com/img/badges/3million.svg" alt="3 Million Legend" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Skilled Navigator" width="100" height="100"/>
         <img src="https://assets.tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="Friday Fixer" width="100" height="100"/>
-      </p>
+      </p><hr>
+    <h3> Hack The Box </h3>
+    <hr>
+    <h3> AWS </h3>
+    <hr>
+    <h3> Cisco </h3>
 </div>
 <hr>
 <div align="center">
